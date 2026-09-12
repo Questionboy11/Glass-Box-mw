@@ -1,0 +1,1 @@
+import{fA as o}from"./gbx-core-BFXZg23R.js";import"./vendor-jszip-BYe2ePyN.js";import"./vendor-react-De6m-59M.js";import"./gbx-genre-Cj--zHB4.js";import"./gbx-leaf-BTFoCMKl.js";import"./vendor-i18n-C6Swx7Te.js";import"./vendor-peerjs-D87NJuwF.js";import"./vendor-misc-BB715a8a.js";import"./locales-Hy9xFCdy.js";const f=o;export{f as HELLO_SCENARIO_1};
